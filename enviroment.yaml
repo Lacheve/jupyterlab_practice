@@ -1,0 +1,5 @@
+name: enviro7
+channels:
+  - conda-forge
+  - defaults
+prefix: C:\Users\lucia\miniconda3\envs\enviro7
